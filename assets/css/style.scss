@@ -13,15 +13,15 @@
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { color: #AF8C00; }
 
 .main-content h1 {
-  font-size: 64pt;
+  font-size: 96pt;
   font-family: Play, 'M PLUS Rounded 1c';
 }
 
 .main-content h2 { 
   font-size: 48px;
   font-family: Play, 'M PLUS Rounded 1c';
-  margin-block-start: 2em;
-  margin-block-end: 2em;
+  margin-block-start: 1.6em;
+  margin-block-end: 0.4em;
   line-height: 1.6em;
   border-bottom: 1px solid #E0D4A0;
   // &:first-letter { font-size: 80px; }

@@ -117,3 +117,4 @@
 ## 参考文献
 
 - [二十の質問 - Wikipedia](https://ja.wikipedia.org/wiki/%E4%BA%8C%E5%8D%81%E3%81%AE%E8%B3%AA%E5%95%8F)
+- [Twenty Questions - Wikipedia](https://en.wikipedia.org/wiki/Twenty_Questions)

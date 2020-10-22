@@ -80,23 +80,23 @@ description: 学問の分類
         - 地質学
       - [宇宙科学](https://ja.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E7%A7%91%E5%AD%A6) (地学or物理学の一部?)
     - [応用科学](https://ja.wikipedia.org/wiki/%E5%BF%9C%E7%94%A8%E7%A7%91%E5%AD%A6)
-        - [医学](https://ja.wikipedia.org/wiki/%E5%8C%BB%E5%AD%A6)
-        - [歯学](https://ja.wikipedia.org/wiki/%E6%AD%AF%E5%AD%A6) (歯科学,歯科医学)
-        - [薬学](https://ja.wikipedia.org/wiki/%E8%96%AC%E5%AD%A6)
-        - (医歯薬学以外の[保健学/健康科学]((https://ja.wikipedia.org/wiki/%E4%BF%9D%E5%81%A5)))
-          - [看護学](https://ja.wikipedia.org/wiki/%E7%9C%8B%E8%AD%B7%E5%AD%A6) (人間科学の一分野とも考えられる)
-          - リハビリテーション学 (人間科学の一分野とも)
-            - スポーツ科学 (リハビリテーション学の一分野?, 人間科学の一分野とも)
-      - [農学](https://ja.wikipedia.org/wiki/%E8%BE%B2%E5%AD%A6)
-      - [工学](https://ja.wikipedia.org/wiki/%E5%B7%A5%E5%AD%A6) (多くの自然科学と関連?) → [工学の一覧](https://ja.wikipedia.org/wiki/%E5%B7%A5%E5%AD%A6%E3%81%AE%E4%B8%80%E8%A6%A7)/[Category:工学の分野](https://ja.wikipedia.org/wiki/Category:%E5%B7%A5%E5%AD%A6%E3%81%AE%E5%88%86%E9%87%8E)
-        - 土木工学 (工学の一分野, 建築学と関連)
-      - [建築学](https://ja.wikipedia.org/wiki/%E5%BB%BA%E7%AF%89%E5%AD%A6)
-        - 都市工学 (建築学の一分野)
-      - [デザイン学](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%AD%A6)
-      - [計算機科学](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6) \[[Category](https://ja.wikipedia.org/wiki/Category:%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6)\]
-        - [インフォマティクス(知能情報学)](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9) / [情報学](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E5%AD%A6) (計算機科学の一分野ともされる, *もともとは情報学の一部*)
-        - 図書館情報学 (情報学の一分野とする)
-        - 人工知能 (知能情報学の一部?)
+      - [医学](https://ja.wikipedia.org/wiki/%E5%8C%BB%E5%AD%A6)
+      - [歯学](https://ja.wikipedia.org/wiki/%E6%AD%AF%E5%AD%A6) (歯科学,歯科医学)
+      - [薬学](https://ja.wikipedia.org/wiki/%E8%96%AC%E5%AD%A6)
+      - (医歯薬学以外の[保健学/健康科学]((https://ja.wikipedia.org/wiki/%E4%BF%9D%E5%81%A5)))
+        - [看護学](https://ja.wikipedia.org/wiki/%E7%9C%8B%E8%AD%B7%E5%AD%A6) (人間科学の一分野とも考えられる)
+        - リハビリテーション学 (人間科学の一分野とも)
+          - スポーツ科学 (リハビリテーション学の一分野?, 人間科学の一分野とも)
+    - [農学](https://ja.wikipedia.org/wiki/%E8%BE%B2%E5%AD%A6)
+    - [工学](https://ja.wikipedia.org/wiki/%E5%B7%A5%E5%AD%A6) (多くの自然科学と関連?) → [工学の一覧](https://ja.wikipedia.org/wiki/%E5%B7%A5%E5%AD%A6%E3%81%AE%E4%B8%80%E8%A6%A7)/[Category:工学の分野](https://ja.wikipedia.org/wiki/Category:%E5%B7%A5%E5%AD%A6%E3%81%AE%E5%88%86%E9%87%8E)
+      - 土木工学 (工学の一分野, 建築学と関連)
+    - [建築学](https://ja.wikipedia.org/wiki/%E5%BB%BA%E7%AF%89%E5%AD%A6)
+      - 都市工学 (建築学の一分野)
+    - [デザイン学](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%AD%A6)
+    - [計算機科学](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6) \[[Category](https://ja.wikipedia.org/wiki/Category:%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6)\]
+      - [インフォマティクス(知能情報学)](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9) / [情報学](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E5%AD%A6) (計算機科学の一分野ともされる, *もともとは図書館情報学の一部*)
+      - 図書館情報学 (情報学の一分野とする)
+      - 人工知能 (知能情報学の一部?)
     - [人文科学](https://ja.wikipedia.org/wiki/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6)  
       - [哲学](https://ja.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6) (**論理学を除く**, 一部宗教学と重なる)
         - 倫理学 (哲学の一分野)
@@ -104,19 +104,18 @@ description: 学問の分類
       - [宗教学](https://ja.wikipedia.org/wiki/%E5%AE%97%E6%95%99%E5%AD%A6) \[[Category](https://ja.wikipedia.org/wiki/Category:%E5%AE%97%E6%95%99%E5%AD%A6)\] ([民俗学](https://ja.wikipedia.org/wiki/%E6%B0%91%E4%BF%97%E5%AD%A6)の一部も含む?) 
         - 神学 (宗教学の一分野)
       - [心理学](https://ja.wikipedia.org/wiki/%E5%BF%83%E7%90%86%E5%AD%A6) \[[Category](https://ja.wikipedia.org/wiki/Category:%E5%BF%83%E7%90%86%E5%AD%A6)\] (人間科学と関連?) 
-      - (広義の文化人類学)
-        - [文化人類学](https://ja.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E4%BA%BA%E9%A1%9E%E5%AD%A6) ([人類学](https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%A1%9E%E5%AD%A6)における社会人類学なども含む)
-          - [民俗学](https://ja.wikipedia.org/wiki/%E6%B0%91%E4%BF%97%E5%AD%A6)
-          - [民族学](https://ja.wikipedia.org/wiki/%E6%B0%91%E6%97%8F%E5%AD%A6)
-        - [考古学](https://ja.wikipedia.org/wiki/%E8%80%83%E5%8F%A4%E5%AD%A6)
-        - [言語学](https://ja.wikipedia.org/wiki/%E8%A8%80%E8%AA%9E%E5%AD%A6)
-          - 歴史言語学 (言語学の一分野)
-          - 社会言語学 (言語学の一分野)
-          - 方言学 (言語学の一分野)
+      - [文化人類学](https://ja.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E4%BA%BA%E9%A1%9E%E5%AD%A6) ([人類学](https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%A1%9E%E5%AD%A6)における社会人類学なども含む)
+        - [民俗学](https://ja.wikipedia.org/wiki/%E6%B0%91%E4%BF%97%E5%AD%A6)
+        - [民族学](https://ja.wikipedia.org/wiki/%E6%B0%91%E6%97%8F%E5%AD%A6)
+      - [考古学](https://ja.wikipedia.org/wiki/%E8%80%83%E5%8F%A4%E5%AD%A6)
+      - [言語学](https://ja.wikipedia.org/wiki/%E8%A8%80%E8%AA%9E%E5%AD%A6)
+        - 歴史言語学 (言語学の一分野)
+        - 社会言語学 (言語学の一分野)
+        - 方言学 (言語学の一分野)
       - [歴史学](https://ja.wikipedia.org/wiki/%E6%AD%B4%E5%8F%B2%E5%AD%A6)
       - [人文地理学](https://ja.wikipedia.org/wiki/%E4%BA%BA%E6%96%87%E5%9C%B0%E7%90%86%E5%AD%A6)
       - [文学](https://ja.wikipedia.org/wiki/%E6%96%87%E5%AD%A6)
-        - 文芸学
+        - 文芸学 (文学の一分野)
       - [芸術](https://ja.wikipedia.org/wiki/%E8%8A%B8%E8%A1%93)(芸術学) (文学を含めることもある?)
     - [社会科学](https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6)
       - [政治学](https://ja.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E5%AD%A6)
@@ -163,6 +162,10 @@ description: 学問の分類
   - [人類学](https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%A1%9E%E5%AD%A6) (上記)
   - [神経科学](https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%8C%E7%A7%91%E5%AD%A6) (自然科学→生物学 の一分野)
   - [哲学](https://ja.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6) (人文科学の一分野)
+- 広義の文化人類学: 以下の人文科学の分野の総称
+  - [文化人類学](https://ja.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E4%BA%BA%E9%A1%9E%E5%AD%A6) (人文科学の一分野)
+  - [考古学](https://ja.wikipedia.org/wiki/%E8%80%83%E5%8F%A4%E5%AD%A6) (人文科学の一分野)
+  - [言語学](https://ja.wikipedia.org/wiki/%E8%A8%80%E8%AA%9E%E5%AD%A6) (人文科学の一分野)
 
 参考:
 
@@ -170,9 +173,10 @@ description: 学問の分類
 - [科学哲学 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6)
 - [ - Wikipedia]()
 
-## 大学の学部・学科 (もしくは大学院の研究科・専攻) による分類
+## 大学の学部・学科による分類
 
-未整理
+未整理  
+学部・学科 (学域・学類, もしくは大学院における研究科・専攻) による分類を示す予定。
 
 参考:
 

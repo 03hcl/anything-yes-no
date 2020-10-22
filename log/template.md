@@ -18,4 +18,5 @@ description:
 
 ## メモ
 
-ゲーム時間:
+ゲーム時間:  
+ライブ放送: [@03hcl](https://www.periscope.tv/03hcl/) (Periscope)

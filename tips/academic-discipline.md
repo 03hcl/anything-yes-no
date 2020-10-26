@@ -95,13 +95,13 @@ description: 学問の分類
       - [デザイン学](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%AD%A6)
       - [計算機科学](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6) \[[Category](https://ja.wikipedia.org/wiki/Category:%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6)\]
         - [インフォマティクス(知能情報学)](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9) / [情報学](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E5%AD%A6) (計算機科学の一分野ともされる, *もともとは図書館情報学の一部*)
-        - 図書館情報学 (情報学の一分野とする)
-        - 人工知能 (知能情報学の一部?)
+          - 図書館情報学 (情報学の一分野とする)
+          - 人工知能 (知能情報学の一部?)
     - [人文科学](https://ja.wikipedia.org/wiki/%E4%BA%BA%E6%96%87%E7%A7%91%E5%AD%A6)  
       - [哲学](https://ja.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6) (**論理学を除く**, 一部宗教学と重なる)
         - 倫理学 (哲学の一分野)
         - 美学/審美学 (哲学の一分野)
-      - [宗教学](https://ja.wikipedia.org/wiki/%E5%AE%97%E6%95%99%E5%AD%A6) \[[Category](https://ja.wikipedia.org/wiki/Category:%E5%AE%97%E6%95%99%E5%AD%A6)\] ([民俗学](https://ja.wikipedia.org/wiki/%E6%B0%91%E4%BF%97%E5%AD%A6)の一部も含む?) 
+      - [宗教学](https://ja.wikipedia.org/wiki/%E5%AE%97%E6%95%99%E5%AD%A6) \[[Category](https://ja.wikipedia.org/wiki/Category:%E5%AE%97%E6%95%99%E5%AD%A6)\] ([民俗学](https://ja.wikipedia.org/wiki/%E6%B0%91%E4%BF%97%E5%AD%A6)の一部も含む?)
         - 神学 (宗教学の一分野)
       - [心理学](https://ja.wikipedia.org/wiki/%E5%BF%83%E7%90%86%E5%AD%A6) \[[Category](https://ja.wikipedia.org/wiki/Category:%E5%BF%83%E7%90%86%E5%AD%A6)\] (人間科学と関連?)
       - [文化人類学](https://ja.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E4%BA%BA%E9%A1%9E%E5%AD%A6) ([人類学](https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%A1%9E%E5%AD%A6)における社会人類学なども含む)
@@ -171,7 +171,6 @@ description: 学問の分類
 
 - [学問の一覧 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%AD%A6%E5%95%8F%E3%81%AE%E4%B8%80%E8%A6%A7)
 - [科学哲学 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6)
-- [ - Wikipedia]()
 
 ## 大学の学部・学科による分類
 
@@ -190,5 +189,3 @@ description: 学問の分類
 - [研究科 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%A0%94%E7%A9%B6%E7%A7%91)
 - [Category:研究科 - Wikipedia](https://ja.wikipedia.org/wiki/Category:%E7%A0%94%E7%A9%B6%E7%A7%91)
 - [研究科の一覧 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%A0%94%E7%A9%B6%E7%A7%91%E3%81%AE%E4%B8%80%E8%A6%A7)
-- [ - Wikipedia]()
-

@@ -148,7 +148,7 @@ description: 学問の分類
     - [芸能](https://ja.wikipedia.org/wiki/%E8%8A%B8%E8%83%BD)
   - [考古学](https://ja.wikipedia.org/wiki/%E8%80%83%E5%8F%A4%E5%AD%A6) (人文科学の一分野)
 - [人間科学](https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%96%93%E7%A7%91%E5%AD%A6): 人間に関する総合科学, 人文科学の一分野に含めることも?
-- [地理学](https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E5%AD%A6): 空間や自然と経済・社会・文化等との関係を対象とする\[要検証\]
+- [地理学](https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%86%E5%AD%A6): 空間や自然と経済・社会・文化等との関係を対象とする?? (※要確認)
   - [系統地理学](https://ja.wikipedia.org/wiki/%E7%B3%BB%E7%B5%B1%E5%9C%B0%E7%90%86%E5%AD%A6)
     - [自然地理学](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E5%AD%A6) (主に地球惑星科学の一部? 生物学→生態学 とも関連?)
     - [人文地理学](https://ja.wikipedia.org/wiki/%E4%BA%BA%E6%96%87%E5%9C%B0%E7%90%86%E5%AD%A6) (人文科学の一分野)

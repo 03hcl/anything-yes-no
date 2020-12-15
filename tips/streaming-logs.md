@@ -6,8 +6,8 @@ description: これまで配信した放送のログ
 
 | 回数 | 日付 | 答え | 推理 | 出題 | 質問数 | 時間 | Streaming URL | (備考) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 第1回 | 2020-10-18 | ギター | masher | 03 | 38問 | 38分 | [@03hcl](https://www.periscope.tv/03hcl/1mnxelREOLZJX?t=1m) (Periscope) 1:00～ |
-| 第2回 | 2020-10-18 | 福井 | 03 | masher | 62問 | 62分 | [@03hcl](https://www.periscope.tv/03hcl/1MYGNVgAnDnGw?t=1m36s) (Periscope) 1:36～ |
+| 第1回 | 2020-10-18 | ギター | masher | 03 | 38問 | 38分 | [@03hcl](https://www.periscope.tv/03hcl/1mnxelREOLZJX?t=1m) (Periscope) 1:00～, [@masaharu_mada](https://www.pscp.tv/masaharu_mada/1YqJDpowwLeJV?t=14m27s) (Periscope) 14:27～ |
+| 第2回 | 2020-10-18 | 福井 | 03 | masher | 62問 | 62分 | [@03hcl](https://www.periscope.tv/03hcl/1MYGNVgAnDnGw?t=1m36s) (Periscope) 1:36～, [@masaharu_mada](https://www.pscp.tv/masaharu_mada/1MYxNVgAgevxw?t=25s) (Periscope) 0:25～ |
 | 第3回 | 2020-10-20 | はちみつ | m | 03 | 14問 | 9分 | [@03hcl](https://www.periscope.tv/03hcl/1zqJVePRgbWGB?t=32s) (Periscope) 0:32～ |
 | 第4回 | 2020-10-20 | ドライバー | 03 | m | 30問 | 48分 | [@03hcl](https://www.periscope.tv/03hcl/1BRKjYZmPvaxw?t=35s) (Periscope) 0:35～ |
 | 第5回 | 2020-10-22 | 関東大震災 | ksi | 03 | 25問 | 28分 | [@03hcl](https://www.periscope.tv/03hcl/1lPKqLBvPOAxb?t=0s) (0:00～) |

@@ -34,13 +34,14 @@ description: これまで配信した放送のログ
 | 第26回 | 2020-10-31 | [グループ魂](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E9%AD%82) | 03 | m | 26問 | 15分 | [@03hcl](https://www.periscope.tv/03hcl/1RDxlrzMrVrGL?t=2m33s) (2:33～) |
 | 第27回 | 2020-10-31 | 酸素 | m | 03 | 13問 | 5分 | [@03hcl](https://www.periscope.tv/03hcl/1rmxPYyVMWLKN?t=27s) (0:27～) |
 | 第28回 | 2020-10-31 | 初音ミク | m | 03 | 15問 | 8分 | [@03hcl](https://www.periscope.tv/03hcl/1ypJdwZjMzqGW?t=22s) (0:22～) |
-| 第29回 | 2020-11-01 |  | 03 | masher | 問 | 分 | [@03hcl](https://www.periscope.tv/03hcl/1ynKOqlWnjrJR?t=5m5s) (5:05～) |
+| 第29回 | 2020-11-01 | 冬 | 03 | masher | 31問 | 29分 | [@03hcl](https://www.periscope.tv/03hcl/1ynKOqlWnjrJR?t=5m1s) (Periscope) 5:01～, [@masaharu_mada](https://www.periscope.tv/masaharu_mada/1OwGWLXPgQMJQ?t=5m7s) (Periscope) 5:07～ | Coming Soon 画面を初めて導入 |
+| 第30回 | 2020-11-01 | 周期表 | masher | 03 | 42問 | 52分 | [@03hcl](https://www.periscope.tv/03hcl/1YqGoRoWwMaKv?t=4m48s) (Periscope) 4:48～, [@masaharu_mada](https://www.periscope.tv/masaharu_mada/1nAJEAgVbaoJL?t=4m42s) (Periscope) 4:42～ |
 |  |  |  |  |  |  |  |  |
 | 第69回 | 2020-12-14 | 風 | 03, TK, いっぺー | なすび | 42問 | 31分 | [@03hcl](https://www.periscope.tv/03hcl/1nAKELjMmVkxL?t=12m58s) (Periscope) 12:58～ |
 | 第70回 | 2020-12-14 | コインロッカー | TK, いっぺー, なすび | 03 | 25問 | 20分 | [@03hcl](https://www.periscope.tv/03hcl/1nAKELjMmVkxL?t=53m16s) (Periscope) 53:16～ |
 | 第71回 | 2020-12-14 | 国旗 | 03, なすび | TK, いっぺー | 37問 | 29分 | [@03hcl](https://www.periscope.tv/03hcl/1nAKELjMmVkxL?t=1h30m57s) (Periscope) 1:30:57～ |
+
 <!--
-| 第回 | 2020-- |  | 03 | 03 | 問 | 分 | [@03hcl]() |
-| 第回 | 2020-- |  | 03 | 03 | 問 | 分 | [@03hcl](https://www.periscope.tv/03hcl/?t=0m0s) |
+| 第回 | 2020-- |  | 03 | 03 | 問 | 分 |  |
 |  |  |  |  |  |  |  |  |
 -->

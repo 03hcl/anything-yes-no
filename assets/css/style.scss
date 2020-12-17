@@ -10,6 +10,43 @@
   background-image: linear-gradient(45deg, #FFC680, #F8FF80);
 }
 
+@media screen and (min-width: 120em) {
+  .main-content {
+    max-width: 120rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+  }
+}
+@media screen and (min-width: 80em) and (max-width: 120em) {
+  .main-content {
+    max-width: 80rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+  }
+}
+@media screen and (min-width: 64em) and (max-width: 80em) {
+  .main-content {
+    max-width: 64rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+  }
+}
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .main-content {
+    padding: 2rem 4rem;
+    font-size: 1.1rem
+  }
+}
+@media screen and (max-width: 42em) {
+  .main-content {
+    padding: 2rem 1rem;
+    font-size: 1rem
+  }
+}
+
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { color: #AF8C00; }
 
 .main-content h1 {

@@ -40,6 +40,11 @@ description: これまで配信した放送のログ
 | 第69回 | 2020-12-14 | 風 | 03, TK, いっぺー | なすび | 42問 | 31分 | [@03hcl](https://www.periscope.tv/03hcl/1nAKELjMmVkxL?t=12m58s) (Periscope) 12:58～ |
 | 第70回 | 2020-12-14 | コインロッカー | TK, いっぺー, なすび | 03 | 25問 | 20分 | [@03hcl](https://www.periscope.tv/03hcl/1nAKELjMmVkxL?t=53m16s) (Periscope) 53:16～ |
 | 第71回 | 2020-12-14 | 国旗 | 03, なすび | TK, いっぺー | 37問 | 29分 | [@03hcl](https://www.periscope.tv/03hcl/1nAKELjMmVkxL?t=1h30m57s) (Periscope) 1:30:57～ |
+| 第72回 | 2020-12-16 | クーリング・オフ | (・9 | 03 | 25問 | 28分 | [@03hcl](https://www.pscp.tv/w/1ynKOBXEeYOxR?t=6m51s) (Periscope) 6:51～ |
+| 第73回 | 2020-12-18 | スタッドレスタイヤ | もりぞー | 03 | 15問 | 19分 | [@03hcl](https://www.periscope.tv/03hcl/1yoKMAORlRpKQ?t=12m40s) (Periscope) 12:40～ |
+| 第74回 | 2020-12-18 | 香水 | 03 | もりぞー | 30問 | 40分 | [@03hcl](https://www.periscope.tv/03hcl/1yoKMAORlRpKQ?t=38m25s) (Periscope) 38:25～ |
+| 第75回 | 2020-12-18 | オスマン帝国 | もりぞー | 03 | 26問 | 35分 | [@03hcl](https://www.periscope.tv/03hcl/1yoKMAORlRpKQ?t=1h26m8s) (Periscope) 1:26:08～ |
+| 第76回 | 2020-12-18 | グラフィックボード | 03 | もりぞー | 18問 | 12分 | [@03hcl](https://www.periscope.tv/03hcl/1yoKMAORlRpKQ?t=2h11m34s) (Periscope) 2:11:34～ |
 
 <!--
 | 第回 | 2020-- |  | 03 | 03 | 問 | 分 |  |

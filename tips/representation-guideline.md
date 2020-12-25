@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ガイドライン
+title: 表記に関するガイドライン
 description: 質問や回答をはじめとした文章の表現や配信に関するガイドライン
 ---
 

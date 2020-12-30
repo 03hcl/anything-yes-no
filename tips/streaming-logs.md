@@ -4,6 +4,12 @@ title: 配信ログ
 description: これまで配信した放送のログ
 ---
 
+<!--
+| 回数 | 日付 | 答え |質問数 | 時間 | 推理 | 出題 | (備考) |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 第1回 | 2020-10-18 | ギター | 38問 | 38分 | masher | 03 |
+-->
+
 | 回数 | 日付 | 答え | 推理 | 出題 | 質問数 | 時間 | Streaming URL | (備考) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 第1回 | 2020-10-18 | ギター | masher | 03 | 38問 | 38分 | [@03hcl](https://www.periscope.tv/03hcl/1mnxelREOLZJX?t=1m) (Periscope) 1:00～, [@masaharu_mada](https://www.pscp.tv/masaharu_mada/1YqJDpowwLeJV?t=14m27s) (Periscope) 14:27～ |

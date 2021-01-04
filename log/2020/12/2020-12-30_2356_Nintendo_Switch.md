@@ -33,4 +33,4 @@ description: 2020-12-30
 ## メモ
 
 ゲーム時間: 10分  
-ライブ放送: [@03hcl](https://www.periscope.tv/03hcl/1YqxoyBoAdyGv?t=57m49s) (Periscope) 57:49～
+ライブ放送: [@03hcl](https://www.periscope.tv/03hcl/1YqxoyBoAdyGv?t=57m48s) (Periscope) 57:48～

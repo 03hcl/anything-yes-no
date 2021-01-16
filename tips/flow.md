@@ -87,7 +87,7 @@ description: 万物分類のためのフローチャート
       Yesの場合: 場所等 (例: ダム)  
       Noの場合: 道路/駐車場/歩道/公園/公共的な敷地(駅/空港/港/...)/山/海/空/個人の敷地(庭/...)/... (※)
   - 屋内にも屋外にもある場合: 「**身につける,持ち歩くor体内に存在することがある？**」
-- 「**手で直接触れる？**」
+- 「**手で直接さわれる？**」
 - 三態: (参考: [物質の状態 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%89%A9%E8%B3%AA%E3%81%AE%E7%8A%B6%E6%85%8B), [相 (物質) - Wikipedia](https://ja.wikipedia.org/wiki/%E7%9B%B8_(%E7%89%A9%E8%B3%AA)))  
   - 「**(常温常圧で)固体っぽく見える？**」(外側部分or主要素が)
     Yesの場合: 固体/[アモルファス](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%82%B9)([ガラス](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%A9%E3%82%B9)等)/粘度の高い液体([アスファルト](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%95%E3%82%A1%E3%83%AB%E3%83%88)等)/[ゲル](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%AB)(こんにゃく/ゼリー/豆腐/シリカゲル/etc.)/  

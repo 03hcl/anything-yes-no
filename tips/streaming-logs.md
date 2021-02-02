@@ -183,8 +183,8 @@ description: これまで配信した放送のログ
 |  | 2021年1月11日 | 七福神 | 28問 | - | 03 | (・9 |
 |  | 2021年1月17日 | 残高 | 42問 | - | (・9 | 03 |
 |  | 2021年1月17日 | エンジンブレーキ | 40問 | 76分 | (・9 | 03 |
-| 第98回 |  |  |  |  |  |  |
-| 第99回 |  |  |  |  |  |  |
+| 第98回 | 2021年2月1日 | 老後 | 24問 | 19分 | (・9 | 03 |
+| 第99回 | 2021年2月1日 | 待ち受け画面 | 22問 | 19分 | 03 | (・9 |
 
 ## 配信リンク
 
@@ -271,7 +271,7 @@ description: これまで配信した放送のログ
 | 第77回 | 2020年12月19日 | エプロン | [第77回 / 11:44～](https://www.periscope.tv/03hcl/1MYxNmQvwENJw?t=11m44s) |
 | 第78回 | 2020年12月19日 | 雪だるま | [第77回 / 47:50～](https://www.periscope.tv/03hcl/1MYxNmQvwENJw?t=47m50s) |
 | 第79回 | 2020年12月19日 | パスポート | [第77回 / 1:08:10～](https://www.periscope.tv/03hcl/1MYxNmQvwENJw?t=1h8m10s) |
-| 第80回 | 2020年12月21日 | 鍵 | - | [第80回 / 9:12～](https://www.youtube.com/watch?v=JwrxicsBW7U&t=552s) (03/YouTube)<br/>[第80回 (9:12～)](https://www.instagram.com/tv/CJI6wbFjH5T/) (@03hcl/Instagram) | 縦画面<br/>録画放送 |
+| 第80回 | 2020年12月21日 | 鍵 | - | [第80回 / 9:12～](https://www.youtube.com/watch?v=JwrxicsBW7U&t=552s) (03/YouTube)<br/>[第80回](https://www.instagram.com/tv/CJI6wbFjH5T/) (9:12～) (@03hcl/Instagram) | 縦画面<br/>録画放送 |
 | 第81回 | 2020年12月24日 | 石原さとみ | [第81回 / 22:30～](https://www.periscope.tv/03hcl/1djGXqDbONVJZ?t=22m30s) |
 | 第82回 | 2020年12月24日 | コンセント | [第81回 / 1:01:10～](https://www.periscope.tv/03hcl/1djGXqDbONVJZ?t=1h1m10s) |
 | 第83回 | 2020年12月24日 | 500円玉 | [第81回 / 1:18:40～](https://www.periscope.tv/03hcl/1djGXqDbONVJZ?t=1h18m40s) |
@@ -289,8 +289,9 @@ description: これまで配信した放送のログ
 | 第95回 | 2020年12月30日 | 餅 | [第95回 / 20:00～](https://www.periscope.tv/03hcl/1YqxoyBoAdyGv?t=20m) |
 | 第96回 | 2020年12月30日 | Nintendo Switch | [第95回 / 57:48～](https://www.periscope.tv/03hcl/1YqxoyBoAdyGv?t=57m48s) |
 | 第97回 | 2020年12月30日 | ピタゴラスイッチ | [第95回 / 1:13:14～](https://www.periscope.tv/03hcl/1YqxoyBoAdyGv?t=1h13m14s) |
-| 第98回 |  |  |  |
-| 第99回 |  |  |  |
+| 第98回 | 2021年2月1日 | 老後 | - | [第98-99回 / 6:46～](https://youtu.be/y-AgYYTU-mE?t=406s) (03/YouTube)<br/>第98-99回 \[[1](https://www.instagram.com/tv/CKwfS_TDd59/)(6:46～)/[2](https://www.instagram.com/tv/CKwfrJiDo-z/)/[3](https://www.instagram.com/tv/CKwgGHOjtyQ/)/[4](https://www.instagram.com/tv/CKwgRcrD1Ql/)\] (@03hcl/Instagram) | 縦画面 |
+| 第99回 | 2021年2月1日 | 待ち受け画面 | - | [第98-99回 / 32:49～](https://youtu.be/y-AgYYTU-mE?t=1969s) (03/YouTube)<br/>第98-99回 \[[1](https://www.instagram.com/tv/CKwfS_TDd59/)/[2](https://www.instagram.com/tv/CKwfrJiDo-z/)/[3](https://www.instagram.com/tv/CKwgGHOjtyQ/)(2:54～)/[4](https://www.instagram.com/tv/CKwgRcrD1Ql/)\] (@03hcl/Instagram) | 縦画面 |
+| 第100回 |  |  |  |
 
 <!--
 /2020-0*(\d+)-0*(\d+)/2020年$1月$2日/

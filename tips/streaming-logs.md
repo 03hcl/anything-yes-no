@@ -8,7 +8,7 @@ description: これまで配信した放送のログ
 
 | 回数 | 実施日 | 答え | 質問数 | 時間 | 推理 | 出題 | オプション/備考 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|  | 2020年9月22日 | 楽譜 | 49問 | - | 03 | (・9 |
+| [-](../log/2020/09/2020-10-02_1809_東京駅.html) | 2020年9月22日 | 楽譜 | 49問 | - | 03 | (・9 |
 |  | 2020年9月22日 | 抽選 | - | - | 03 | (・9 | 60問でギブアップ |
 |  | 2020年9月22日 | 眼鏡 | 37問 | - | 03 | (・9 |
 |  | 2020年9月22日 | 初詣 | 35問 | - | 03 | (・9 |
@@ -311,42 +311,42 @@ description: これまで配信した放送のログ
 
 | 回数 | 作曲者 | 曲名 |
 |:-:|:-:|:-:|
-| 1-42回戦 | - | - |
-| 43-103回戦 | 作田京輔 | Martini |
+| 第1-42回 | - | - |
+| 第43-103回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Martini](https://dova-s.jp/bgm/play4209.html) |
 
 ### オープニング/エンディング
 
 | 回数 | 作曲者 | 曲名 |
 |:-:|:-:|:-:|
-| 1-35回戦 | - | - |
-| 36-38回戦 | 作田京輔 | Martini |
-| 40-42回戦 | まつもとたくや (ioni) | light song |
-| 43-52回戦 | まつもとたくや (ioni) | raspis |
-| 53-54回戦 | - | - |
-| 55-69回戦 | まつもとたくや (ioni) | raspis |
-| 72-103回戦 | しゃろう | サンタは中央線でやってくる |
+| 第1-35回 | - | - |
+| 第36-38回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Martini](https://dova-s.jp/bgm/play4209.html) |
+| 第40-42回 | [まつもとたくや (ioni)](https://dova-s.jp/_contents/author/profile115.html) | [light song](https://dova-s.jp/bgm/play2815.html) |
+| 第43-52回 | [まつもとたくや (ioni)](https://dova-s.jp/_contents/author/profile115.html) | [raspis](https://dova-s.jp/bgm/play2851.html) |
+| 第53-54回 | - | - |
+| 第55-69回 | [まつもとたくや (ioni)](https://dova-s.jp/_contents/author/profile115.html) | [raspis](https://dova-s.jp/bgm/play2851.html) |
+| 第72-103回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [サンタは中央線でやってくる](https://dova-s.jp/bgm/play13761.html) |
 
 ### 本編
 
 | 回数 | 作曲者 | 曲名 |
 |:-:|:-:|:-:|
-| 1-19回戦 | - | - |
-| 20-24回戦 | Khaim | Stay On Your Mind |
-| 25-26回戦 | かずち | コイントス |
-| 27回戦 | 作田京輔 | Dancing Bass |
-| 28-29回戦 | かずち | ブラウンキャット |
-| 30-33回戦 | かずち | フラッシュパーティー |
-| 34回戦 | しゃろう | 2:23 AM |
-| 35-39回戦 | Khaim | Stay On Your Mind |
-| 40-42回戦 | Khaim | Geneve (Prod. Khaim) |
-| 43-54回戦 | しゃろう | 2:23 AM |
-| 55-68回戦 | 作田京輔 | Dancing Bass |
-| 69-80回戦 | Khaim | Stay On Your Mind |
-| 81-103回戦 | しゃろう | Morning |
+| 第1-19回 | - | - |
+| 第20-24回 | [Khaim](https://dova-s.jp/_contents/author/profile136.html) | [Stay On Your Mind](https://dova-s.jp/bgm/play6574.html) |
+| 第25-26回 | [かずち](https://dova-s.jp/_contents/author/profile055.html) | [コイントス](https://dova-s.jp/bgm/play1386.html) |
+| 第27回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Chaser](https://dova-s.jp/_mobile/bgm/play12023.html) |
+| 第28-29回 | [かずち](https://dova-s.jp/_contents/author/profile055.html) | [ブラウンキャット](https://dova-s.jp/bgm/play2853.html) |
+| 第30-33回 | [かずち](https://dova-s.jp/_contents/author/profile055.html) | [フラッシュパーティー](https://dova-s.jp/bgm/play4262.html) |
+| 第34回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [2:23 AM](https://dova-s.jp/bgm/play13513.html) |
+| 第35-39回 | [Khaim](https://dova-s.jp/_contents/author/profile136.html) | [Stay On Your Mind](https://dova-s.jp/bgm/play6574.html) |
+| 第40-42回 | [Khaim](https://dova-s.jp/_contents/author/profile136.html) | [Geneve (Prod. Khaim)](https://dova-s.jp/bgm/play10364.html) |
+| 第43-54回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [2:23 AM](https://dova-s.jp/bgm/play13513.html) |
+| 第55-68回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Chaser](https://dova-s.jp/_mobile/bgm/play12023.html) |
+| 第69-80回 | [Khaim](https://dova-s.jp/_contents/author/profile136.html) | [Stay On Your Mind](https://dova-s.jp/bgm/play6574.html) |
+| 第81-103回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Morning](https://dova-s.jp/bgm/play2452.html) |
 
 ### その他
 
 | 回数/種類 | 作曲者 | 曲名 |
 |:-:|:-:|:-:|
-| 48回/あーだこーだ | KK | 日曜の午後 |
-| 62回/あーだこーだ | KK | 日曜の午後 |
+| 第48回/あーだこーだ | [KK](https://dova-s.jp/_contents/author/profile024.html) | [日曜の午後](https://dova-s.jp/bgm/play4675.html) |
+| 第62回/あーだこーだ | [KK](https://dova-s.jp/_contents/author/profile024.html) | [日曜の午後](https://dova-s.jp/bgm/play4675.html) |

@@ -231,11 +231,11 @@ description: これまで配信した放送のログ
 | 第33回 | 2020年11月3日 | ファスナー | [第33回 / 4:38～](https://www.periscope.tv/03hcl/1ypKdwZvBvoxW?t=4m38s) |  | 初めてオープニング画面を導入 |
 | 第34回 | 2020年11月3日 | アッラー | [第34回 / 6:34～](https://www.periscope.tv/03hcl/1MnxndwDnNVGO?t=6m34s) |
 | 第35回 | 2020年11月3日 | タイムマシン | [第35回 / 6:32～](https://www.periscope.tv/03hcl/1ypJdwZpdlaGW?t=6m32s) |
-| 第36回 | 2020年11月4日 | スパイ | [第36回 / 1:43～](https://www.periscope.tv/03hcl/1vOGwkXXbAvGB?t=1m43s) |
+| 第36回 | 2020年11月4日 | スパイ | [第36回 / 1:43～](https://www.periscope.tv/03hcl/1vOGwkXXbAvGB?t=1m43s) |  | 初めてオープニング画面のBGMを導入 |
 | 第37回 | 2020年11月5日 | オゾン層 | [第37回 / 6:54～](https://www.periscope.tv/03hcl/1OdKrWOklZqGX?t=6m54s) |
 | 第38回 | 2020年11月5日 | 鯖江市 | [第38回 / 2:29～](https://www.periscope.tv/03hcl/1vOxwkdPkgbxB?t=2m29s) |
 | 第39回 | 2020年11月5日 | 死 | [第39回 / 5:54～](https://www.periscope.tv/03hcl/1ynJOqMzQWkKR?t=5m54s) |
-| 第40回 | 2020年11月7日 | ふりかけ | [第40回 / 10:00～](https://www.periscope.tv/03hcl/1yoJMXPljgwGQ?t=10m) |  | 初めて横スクロールの文字を導入 |
+| 第40回 | 2020年11月7日 | ふりかけ | [第40回 / 10:00～](https://www.periscope.tv/03hcl/1yoJMXPljgwGQ?t=10m) |  | 初めて横スクロール文字を導入 |
 | 第41回 | 2020年11月13日 | サイコロ | [第41回 / 6:10～](https://www.periscope.tv/03hcl/1yoKMAvRYjNKQ?t=6m10s) |
 | 第42回 | 2020年11月13日 | ぎなた読み | [第42回 / 15:11～](https://www.periscope.tv/03hcl/1YqJDezPQpwxV?t=15m11s) |
 | 第43回 | 2020年11月15日 | 金正日 | [第43回 / 9:43～](https://www.periscope.tv/03hcl/1yNGaWrnLkExj?t=9m43s) |  | 初めてComingSoon画面のBGMを導入 |
@@ -267,7 +267,7 @@ description: これまで配信した放送のログ
 | 第69回 | 2020年12月14日 | 風 | [第69-71回 / 12:58～](https://www.periscope.tv/03hcl/1nAKELjMmVkxL?t=12m58s) |
 | 第70回 | 2020年12月14日 | コインロッカー | [第69-71回 / 53:16～](https://www.periscope.tv/03hcl/1nAKELjMmVkxL?t=53m16s) |
 | 第71回 | 2020年12月14日 | 国旗 | [第69-71回 / 1:30:57～](https://www.periscope.tv/03hcl/1nAKELjMmVkxL?t=1h30m57s) |
-| 第72回 | 2020年12月16日 | クーリング・オフ | [第72回 / 6:51～](https://www.pscp.tv/w/1ynKOBXEeYOxR?t=6m51s) |  | 録画放送 |
+| 第72回 | 2020年12月16日 | クーリング・オフ | [第72回 / 6:51～](https://www.pscp.tv/03hcl/1ynKOBXEeYOxR?t=6m51s) |  | 録画放送 |
 | 第73回 | 2020年12月18日 | スタッドレスタイヤ | [第73-76回 / 12:40～](https://www.periscope.tv/03hcl/1yoKMAORlRpKQ?t=12m40s) |
 | 第74回 | 2020年12月18日 | 香水 | [第73-76回 / 38:25～](https://www.periscope.tv/03hcl/1yoKMAORlRpKQ?t=38m25s) |
 | 第75回 | 2020年12月18日 | オスマン帝国 | [第73-76回 / 1:26:08～](https://www.periscope.tv/03hcl/1yoKMAORlRpKQ?t=1h26m8s) |
@@ -297,10 +297,56 @@ description: これまで配信した放送のログ
 | 第99回 | 2021年2月1日 | 待ち受け画面 | - | [第98-99回 / 32:49～](https://youtu.be/y-AgYYTU-mE?t=1969s) (03/YouTube)<br/>第98-99回 \[[1](https://www.instagram.com/tv/CKwfS_TDd59/)/[2](https://www.instagram.com/tv/CKwfrJiDo-z/)/[3](https://www.instagram.com/tv/CKwgGHOjtyQ/)(2:54～)/[4](https://www.instagram.com/tv/CKwgRcrD1Ql/)\] (@03hcl/Instagram) | 縦画面 |
 | 第100回 | 2021年2月3日 | #万物YesNo | [第100-101回 / 39:45～](https://www.periscope.tv/03hcl/1ZkKzenEAjoxv?t=39m45s) |
 | 第101回 | 2021年2月3日 | ふなっしー | [第100-101回 / 1:26:30～](https://www.periscope.tv/03hcl/1ZkKzenEAjoxv?t=1h26m30s) |
-| 第102回 | 2021年2月6日 | 仕事 | [第102-103回 / 54:08～](https://www.periscope.tv/03hcl/1dRJZNRMWzgJB?t=54m8s) | [20:57～](https://www.pscp.tv/masaharu_mada/1YqxoyVAnNkGv?t=20m57s) (@masaharu_mada) |
-| 第103回 | 2021年2月6日 | 誕生日 | [第102-103回 / 1:54:19～](https://www.periscope.tv/03hcl/1dRJZNRMWzgJB?t=1h54m19s) | [1:21:06～](https://www.pscp.tv/masaharu_mada/1YqxoyVAnNkGv?t=1h21m6s) (@masaharu_mada) |
+| 第102回 | 2021年2月6日 | 仕事 | [第102-103回 / 54:08～](https://www.periscope.tv/03hcl/1dRJZNRMWzgJB?t=54m8s) |
+| 第103回 | 2021年2月6日 | 誕生日 | [第102-103回 / 1:54:19～](https://www.periscope.tv/03hcl/1dRJZNRMWzgJB?t=1h54m19s) |
 
 <!--
 /2020-0*(\d+)-0*(\d+)/2020年$1月$2日/
 /オプション:\s(?!なし)/
 -->
+
+## BGM
+
+### 待機画面
+
+| 回数 | 作曲者 | 曲名 |
+|:-:|:-:|:-:|
+| 1-42回戦 | - | - |
+| 43-103回戦 | 作田京輔 | Martini |
+
+### オープニング/エンディング
+
+| 回数 | 作曲者 | 曲名 |
+|:-:|:-:|:-:|
+| 1-35回戦 | - | - |
+| 36-38回戦 | 作田京輔 | Martini |
+| 40-42回戦 | まつもとたくや (ioni) | light song |
+| 43-52回戦 | まつもとたくや (ioni) | raspis |
+| 53-54回戦 | - | - |
+| 55-69回戦 | まつもとたくや (ioni) | raspis |
+| 72-103回戦 | しゃろう | サンタは中央線でやってくる |
+
+### 本編
+
+| 回数 | 作曲者 | 曲名 |
+|:-:|:-:|:-:|
+| 1-19回戦 | - | - |
+| 20-24回戦 | Khaim | Stay On Your Mind |
+| 25-26回戦 | かずち | コイントス |
+| 27回戦 | 作田京輔 | Dancing Bass |
+| 28-29回戦 | かずち | ブラウンキャット |
+| 30-33回戦 | かずち | フラッシュパーティー |
+| 34回戦 | しゃろう | 2:23 AM |
+| 35-39回戦 | Khaim | Stay On Your Mind |
+| 40-42回戦 | Khaim | Geneve (Prod. Khaim) |
+| 43-54回戦 | しゃろう | 2:23 AM |
+| 55-68回戦 | 作田京輔 | Dancing Bass |
+| 69-80回戦 | Khaim | Stay On Your Mind |
+| 81-103回戦 | しゃろう | Morning |
+
+### その他
+
+| 回数/種類 | 作曲者 | 曲名 |
+|:-:|:-:|:-:|
+| 48回/あーだこーだ | KK | 日曜の午後 |
+| 62回/あーだこーだ | KK | 日曜の午後 |

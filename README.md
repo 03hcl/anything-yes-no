@@ -119,8 +119,9 @@
 ## 内部リンク
 
 - [フロー](./tips/flow.html)
+  - [学問](./tips/academic-discipline.html.html)
 - [表記に関するガイドライン](./tips/representation-guideline.html)
-- [配信ログ](./tips/streaming-logs.html)
+- [ログ](./tips/logs.html)
 
 ## 参考文献
 

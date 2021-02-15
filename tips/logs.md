@@ -301,8 +301,8 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | [第101回](../logs/2021/02/2021-02-03_2235_ふなっしー.html) | 2021年2月3日 | ふなっしー | [第100-101回 / 1:26:30～](https://www.periscope.tv/03hcl/1ZkKzenEAjoxv?t=1h26m30s) |
 | [第102回](../logs/2021/02/2021-02-07_0003_仕事.html) | 2021年2月6日 | 仕事 | [第102-103回 / 54:08～](https://www.periscope.tv/03hcl/1dRJZNRMWzgJB?t=54m8s) |
 | [第103回](../logs/2021/02/2021-02-07_0105_誕生日.html) | 2021年2月6日 | 誕生日 | [第102-103回 / 1:54:19～](https://www.periscope.tv/03hcl/1dRJZNRMWzgJB?t=1h54m19s) |
-| [第104回](../logs/2021/02/2021-02-14_1515_賞味期限.html) | 2021年2月14日 | 賞味期限 | [第104-105回 / 7:35～](https://www.youtube.com/watch?v=cWpcz7SsXi0&t=455s) (03/YouTube)<br/>[第104-105回](https://www.instagram.com/tv/CLRY8Rajl1O/) (7:35～) (@03hcl/Instagram) | 縦画面<br/>録画放送 |
-| [第105回](../logs/2021/02/2021-02-14_1534_空き箱.html) | 2021年2月14日 | 空き箱 | [第104-105回 / 26:39～](https://www.youtube.com/watch?v=cWpcz7SsXi0&t=1599s) (03/YouTube)<br/>[第104-105回](https://www.instagram.com/tv/CLRY8Rajl1O/) (26:39～) (@03hcl/Instagram) | 縦画面<br/>録画放送 |
+| [第104回](../logs/2021/02/2021-02-14_1515_賞味期限.html) | 2021年2月14日 | 賞味期限 | - | [第104-105回 / 7:35～](https://www.youtube.com/watch?v=cWpcz7SsXi0&t=455s) (03/YouTube)<br/>[第104-105回](https://www.instagram.com/tv/CLRY8Rajl1O/) (7:35～) (@03hcl/Instagram) | 縦画面<br/>録画放送 |
+| [第105回](../logs/2021/02/2021-02-14_1534_空き箱.html) | 2021年2月14日 | 空き箱 | - | [第104-105回 / 26:39～](https://www.youtube.com/watch?v=cWpcz7SsXi0&t=1599s) (03/YouTube)<br/>[第104-105回](https://www.instagram.com/tv/CLRY8Rajl1O/) (26:39～) (@03hcl/Instagram) | 縦画面<br/>録画放送 |
 
 <!--
 /2020-0*(\d+)-0*(\d+)/2020年$1月$2日/

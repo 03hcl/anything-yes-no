@@ -98,7 +98,7 @@ description: 万物分類のためのフローチャート
     Yesの場合: 気体/[エアロゾル](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%BE%E3%83%AB)(煙/霧orもや/スモッグ(PM2.5等)/etc.)  
   - その他の物質の相(っぽいもの): [プラズマ](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E)/[ボース=アインシュタイン凝縮](https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%B9%EF%BC%9D%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E5%87%9D%E7%B8%AE)/リュードベリ状態/String-net liquid/[フェルミ縮退](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E7%B8%AE%E9%80%80)/量子ホール状態/...  
   - 怪しいもの: [超流動](https://ja.wikipedia.org/wiki/%E8%B6%85%E6%B5%81%E5%8B%95)状態/[超固体](https://ja.wikipedia.org/wiki/%E8%B6%85%E5%9B%BA%E4%BD%93)/[液晶](https://ja.wikipedia.org/wiki/%E6%B6%B2%E6%99%B6)→どっちととる?/[超ガラス](https://ja.wikipedia.org/wiki/%E8%B6%85%E3%82%AC%E3%83%A9%E3%82%B9)/...  
-- 「**素材(材質)はこれと言える=素材を定義できる？**」  
+- 「**材質(素材)はこれと言える=材質を定義できる？**」  
   Yesの場合:
   - 性質的材料: 植物(木/紙/葉/茎/根/花/実/...)/金属/プラスチック(ビニール,樹脂含む)/紙/石/布/ガラス/ゴム/... (※)
   - 「**数種類以下の化学式で表される？**」

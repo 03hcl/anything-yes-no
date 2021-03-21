@@ -191,6 +191,16 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | [第103回](../logs/2021/02/2021-02-07_0105_誕生日.html) | 2021年2月6日 | 誕生日 | 14問 | 21分 | masher | 03 |
 | [第104回](../logs/2021/02/2021-02-14_1515_賞味期限.html) | 2021年2月14日 | 賞味期限 | 22問 | 10分 | 03 | (・9 |
 | [第105回](../logs/2021/02/2021-02-14_1534_空き箱.html) | 2021年2月14日 | 空き箱 | 27問 | 15分 | (・9 | 03 |
+| [第106回](../logs/2021/02/2021-02-16_1939_ピール.html) | 2021年2月16日 | ピール | 54問 | 68分 | 03 | くろわっさん |
+| [第107回](../logs/2021/02/2021-02-16_2057_テレパシー.html) | 2021年2月16日 | テレパシー | 31問 | 55分 | ksi<br/>くろわっさん | 03 |
+| [第108回](../logs/2021/02/2021-02-16_2203_煩悩.html) | 2021年2月16日 | 煩悩 | 21問 | 22分 | 03<br/>くろわっさん | ksi |
+| [第109回](../logs/2021/02/2021-02-16_2236_マイフェニックス.html) | 2021年2月16日 | [マイフェニックス](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9) | 24問 | 49分 | ksi<br/>くろわっさん | 03 | オプション: WikipediaおまかせEdition |
+| [第110回](../logs/2021/02/2021-02-16_2335_スクロール.html) | 2021年2月16日 | スクロール | 38問 | 68分 | 03 | ksi |
+| [第111回](../logs/2021/02/2021-02-19_1914_さんずい.html) | 2021年2月19日 | さんずい | 67問 | 90分 | 03<br/>ksi<br/>nkmr | マイソン |
+| [第112回](../logs/2021/02/2021-02-19_2103_麻痺.html) | 2021年2月19日 | 麻痺 | 41問 | 100分 | 03<br/>ksi<br/>マイソン | nkmr |
+| [第113回](../logs/2021/03/2021-03-15_2115_正露丸.html) | 2021年3月15日 | 正露丸 | 29問 | 21分 | 03 | どらごん |
+| [第114回](../logs/2021/03/2021-03-15_2147_入れ歯.html) | 2021年3月15日 | 入れ歯 | 20問 | 34分 | どらごん | 03 |
+| [第115回](../logs/2021/03/2021-03-15_2229_通帳.html) | 2021年3月15日 | 通帳 | 27問 | 72分 | どらごん | 03 |
 
 ## 配信リンク
 
@@ -295,14 +305,24 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | [第95回](../logs/2020/12/2020-12-30_2318_餅.html) | 2020年12月30日 | 餅 | [第95-97回 / 20:00～](https://www.periscope.tv/03hcl/1YqxoyBoAdyGv?t=20m) |
 | [第96回](../logs/2020/12/2020-12-30_2356_Nintendo_Switch.html) | 2020年12月30日 | Nintendo Switch | [第95-97回 / 57:48～](https://www.periscope.tv/03hcl/1YqxoyBoAdyGv?t=57m48s) |
 | [第97回](../logs/2020/12/2020-12-31_0011_ピタゴラスイッチ.html) | 2020年12月30日 | ピタゴラスイッチ | [第95-97回 / 1:13:14～](https://www.periscope.tv/03hcl/1YqxoyBoAdyGv?t=1h13m14s) |
-| [第98回](../logs/2021/02/2021-02-01_2315_老後.html) | 2021年2月1日 | 老後 | - | [第98-99回 / 6:46～](https://youtu.be/y-AgYYTU-mE?t=406s) (03/YouTube)<br/>第98-99回 \[[1](https://www.instagram.com/tv/CKwfS_TDd59/)(6:46～)/[2](https://www.instagram.com/tv/CKwfrJiDo-z/)/[3](https://www.instagram.com/tv/CKwgGHOjtyQ/)/[4](https://www.instagram.com/tv/CKwgRcrD1Ql/)\] (@03hcl/Instagram) | 縦画面 |
-| [第99回](../logs/2021/02/2021-02-01_2341_待ち受け画面.html) | 2021年2月1日 | 待ち受け画面 | - | [第98-99回 / 32:49～](https://youtu.be/y-AgYYTU-mE?t=1969s) (03/YouTube)<br/>第98-99回 \[[1](https://www.instagram.com/tv/CKwfS_TDd59/)/[2](https://www.instagram.com/tv/CKwfrJiDo-z/)/[3](https://www.instagram.com/tv/CKwgGHOjtyQ/)(2:54～)/[4](https://www.instagram.com/tv/CKwgRcrD1Ql/)\] (@03hcl/Instagram) | 縦画面 |
+| [第98回](../logs/2021/02/2021-02-01_2315_老後.html) | 2021年2月1日 | 老後 | - | [第98-99回 / 6:46～](https://youtu.be/y-AgYYTU-mE?t=406s) (03/YouTube)<br/>[第98-99回](https://www.instagram.com/tv/CLEVeZLl6SG/) (6:46～) (@03hcl/Instagram) | 縦画面 | <!-- 第98-99回 \[[1](https://www.instagram.com/tv/CKwfS_TDd59/)(6:46～)/[2](https://www.instagram.com/tv/CKwfrJiDo-z/)/[3](https://www.instagram.com/tv/CKwgGHOjtyQ/)/[4](https://www.instagram.com/tv/CKwgRcrD1Ql/)\] (@03hcl/Instagram) -->
+| [第99回](../logs/2021/02/2021-02-01_2341_待ち受け画面.html) | 2021年2月1日 | 待ち受け画面 | - | [第98-99回 / 32:49～](https://youtu.be/y-AgYYTU-mE?t=1969s) (03/YouTube)<br/>[第98-99回](https://www.instagram.com/tv/CLEVeZLl6SG/) (32:49～) (@03hcl/Instagram) | 縦画面 | <!-- 第98-99回 \[[1](https://www.instagram.com/tv/CKwfS_TDd59/)/[2](https://www.instagram.com/tv/CKwfrJiDo-z/)/[3](https://www.instagram.com/tv/CKwgGHOjtyQ/)(2:54～)/[4](https://www.instagram.com/tv/CKwgRcrD1Ql/)\] (@03hcl/Instagram) -->
 | [第100回](../logs/2021/02/2021-02-03_2149_万物YesNo.html) | 2021年2月3日 | #万物YesNo | [第100-101回 / 39:45～](https://www.periscope.tv/03hcl/1ZkKzenEAjoxv?t=39m45s) |
 | [第101回](../logs/2021/02/2021-02-03_2235_ふなっしー.html) | 2021年2月3日 | ふなっしー | [第100-101回 / 1:26:30～](https://www.periscope.tv/03hcl/1ZkKzenEAjoxv?t=1h26m30s) |
 | [第102回](../logs/2021/02/2021-02-07_0003_仕事.html) | 2021年2月6日 | 仕事 | [第102-103回 / 54:08～](https://www.periscope.tv/03hcl/1dRJZNRMWzgJB?t=54m8s) |
 | [第103回](../logs/2021/02/2021-02-07_0105_誕生日.html) | 2021年2月6日 | 誕生日 | [第102-103回 / 1:54:19～](https://www.periscope.tv/03hcl/1dRJZNRMWzgJB?t=1h54m19s) |
 | [第104回](../logs/2021/02/2021-02-14_1515_賞味期限.html) | 2021年2月14日 | 賞味期限 | - | [第104-105回 / 7:35～](https://www.youtube.com/watch?v=cWpcz7SsXi0&t=455s) (03/YouTube)<br/>[第104-105回](https://www.instagram.com/tv/CLRY8Rajl1O/) (7:35～) (@03hcl/Instagram) | 縦画面<br/>録画放送 |
 | [第105回](../logs/2021/02/2021-02-14_1534_空き箱.html) | 2021年2月14日 | 空き箱 | - | [第104-105回 / 26:39～](https://www.youtube.com/watch?v=cWpcz7SsXi0&t=1599s) (03/YouTube)<br/>[第104-105回](https://www.instagram.com/tv/CLRY8Rajl1O/) (26:39～) (@03hcl/Instagram) | 縦画面<br/>録画放送 |
+| [第106回](../logs/2021/02/2021-02-16_1939_ピール.html) | 2021年2月16日 | ピール | [第106-110回 / 9:47～](https://www.periscope.tv/03hcl/1lDGLpRvvoYGm?t=9m47s) |
+| [第107回](../logs/2021/02/2021-02-16_2057_テレパシー.html) | 2021年2月16日 | テレパシー | [第106-110回 / 1:28:05～](https://www.periscope.tv/03hcl/1lDGLpRvvoYGm?t=1h28m5s) |
+| [第108回](../logs/2021/02/2021-02-16_2203_煩悩.html) | 2021年2月16日 | 煩悩 | [第106-110回 / 2:34:33～](https://www.periscope.tv/03hcl/1lDGLpRvvoYGm?t=2h34m33s) |
+| [第109回](../logs/2021/02/2021-02-16_2236_マイフェニックス.html) | 2021年2月16日 | [マイフェニックス](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9) | [第106-110回 / 3:07:17～](https://www.periscope.tv/03hcl/1lDGLpRvvoYGm?t=3h7m17s) |
+| [第110回](../logs/2021/02/2021-02-16_2335_スクロール.html) | 2021年2月16日 | スクロール | [第106-110回 / 4:06:32～](https://www.periscope.tv/03hcl/1lDGLpRvvoYGm?t=4h6m32s) |
+| [第111回](../logs/2021/02/2021-02-19_1914_さんずい.html) | 2021年2月19日 | さんずい | [第111-112回 / 14:23～](https://www.periscope.tv/03hcl/1zqKVXbkeXYJB?t=14m23s) |
+| [第112回](../logs/2021/02/2021-02-19_2103_麻痺.html) | 2021年2月19日 | 麻痺 | [第111-112回 / 2:02:10～](https://www.periscope.tv/03hcl/1zqKVXbkeXYJB?t=2h2m10s) |
+| [第113回](../logs/2021/03/2021-03-15_2115_正露丸.html) | 2021年3月15日 | 正露丸 | [第113-115回 / 18:03～](https://www.periscope.tv/03hcl/1yNGaWmLBWqxj?t=18m3s) |
+| [第114回](../logs/2021/03/2021-03-15_2147_入れ歯.html) | 2021年3月15日 | 入れ歯 | [第113-115回 / 50:05～](https://www.periscope.tv/03hcl/1yNGaWmLBWqxj?t=50m5s) |
+| [第115回](../logs/2021/03/2021-03-15_2229_通帳.html) | 2021年3月15日 | 通帳 | [第113-115回 / 1:32:29～](https://www.periscope.tv/03hcl/1yNGaWmLBWqxj?t=1h32m29s) |
 
 <!--
 /2020-0*(\d+)-0*(\d+)/2020年$1月$2日/
@@ -316,7 +336,7 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | 回数 | 作曲者 | 曲名 |
 |:-:|:-:|:-:|
 | 第1-42回 | - | - |
-| 第43-103回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Martini](https://dova-s.jp/bgm/play4209.html) |
+| 第43-115回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Martini](https://dova-s.jp/bgm/play4209.html) |
 
 ### オープニング/エンディング
 
@@ -329,7 +349,7 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | 第53-54回 | - | - |
 | 第55-71回 | [まつもとたくや (ioni)](https://dova-s.jp/_contents/author/profile115.html) | [raspis](https://dova-s.jp/bgm/play2851.html) |
 | 第72-103回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [サンタは中央線でやってくる](https://dova-s.jp/bgm/play13761.html) |
-| 第104-105回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [SUMMER TRIANGLE](https://dova-s.jp/bgm/play13002.html) |
+| 第104-115回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [SUMMER TRIANGLE](https://dova-s.jp/bgm/play13002.html) |
 
 ### 本編
 
@@ -348,7 +368,7 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | 第55-68回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Chaser](https://dova-s.jp/_mobile/bgm/play12023.html) |
 | 第69-80回 | [Khaim](https://dova-s.jp/_contents/author/profile136.html) | [Stay On Your Mind](https://dova-s.jp/bgm/play6574.html) |
 | 第81-103回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Morning](https://dova-s.jp/bgm/play2452.html) |
-| 第104-105回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Cassette Tape Dream](https://dova-s.jp/bgm/play13982.html) |
+| 第104-115回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Cassette Tape Dream](https://dova-s.jp/bgm/play13982.html) |
 
 ### その他
 

@@ -201,6 +201,9 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | [第113回](../logs/2021/03/2021-03-15_2115_正露丸.html) | 2021年3月15日 | 正露丸 | 29問 | 21分 | 03 | どらごん |
 | [第114回](../logs/2021/03/2021-03-15_2147_入れ歯.html) | 2021年3月15日 | 入れ歯 | 20問 | 34分 | どらごん | 03 |
 | [第115回](../logs/2021/03/2021-03-15_2229_通帳.html) | 2021年3月15日 | 通帳 | 27問 | 72分 | どらごん | 03 |
+| [第116回](../logs/2021/03/2021-03-26_2142_大便.html) | 2021年3月26日 | 大便 | 16問 | 13分 | m | 03 |
+| [第117回](../logs/2021/03/2021-03-26_2213_ラジオ体操.html) | 2021年3月26日 | ラジオ体操 | 20問 | 18分 | 03 | m |
+| [第118回](../logs/2021/03/2021-03-26_2242_出産.html) | 2021年3月26日 | 出産 | 24問 | 22分 | m | 03 |
 
 ## 配信リンク
 
@@ -323,6 +326,9 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | [第113回](../logs/2021/03/2021-03-15_2115_正露丸.html) | 2021年3月15日 | 正露丸 | [第113-115回 / 18:03～](https://www.periscope.tv/03hcl/1yNGaWmLBWqxj?t=18m3s) |
 | [第114回](../logs/2021/03/2021-03-15_2147_入れ歯.html) | 2021年3月15日 | 入れ歯 | [第113-115回 / 50:05～](https://www.periscope.tv/03hcl/1yNGaWmLBWqxj?t=50m5s) |
 | [第115回](../logs/2021/03/2021-03-15_2229_通帳.html) | 2021年3月15日 | 通帳 | [第113-115回 / 1:32:29～](https://www.periscope.tv/03hcl/1yNGaWmLBWqxj?t=1h32m29s) |
+| [第116回](../logs/2021/03/2021-03-26_2142_大便.html) | 2021年3月26日 | 大便 | [第116-118回 / 13:35～](https://www.periscope.tv/03hcl/1OwGWVEmXjkKQ?t=13m35s) |
+| [第117回](../logs/2021/03/2021-03-26_2213_ラジオ体操.html) | 2021年3月26日 | ラジオ体操 | [第116-118回 / 34:32～](https://www.periscope.tv/03hcl/1OwGWVEmXjkKQ?t=34m32s) |
+| [第118回](../logs/2021/03/2021-03-26_2242_出産.html) | 2021年3月26日 | 出産 | [第116-118回 / 1:12:52～](https://www.periscope.tv/03hcl/1OwGWVEmXjkKQ?t=1h12m52s) |
 
 <!--
 /2020-0*(\d+)-0*(\d+)/2020年$1月$2日/
@@ -336,7 +342,7 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | 回数 | 作曲者 | 曲名 |
 |:-:|:-:|:-:|
 | 第1-42回 | - | - |
-| 第43-115回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Martini](https://dova-s.jp/bgm/play4209.html) |
+| 第43-118回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Martini](https://dova-s.jp/bgm/play4209.html) |
 
 ### オープニング/エンディング
 
@@ -349,7 +355,7 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | 第53-54回 | - | - |
 | 第55-71回 | [まつもとたくや (ioni)](https://dova-s.jp/_contents/author/profile115.html) | [raspis](https://dova-s.jp/bgm/play2851.html) |
 | 第72-103回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [サンタは中央線でやってくる](https://dova-s.jp/bgm/play13761.html) |
-| 第104-115回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [SUMMER TRIANGLE](https://dova-s.jp/bgm/play13002.html) |
+| 第104-118回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [SUMMER TRIANGLE](https://dova-s.jp/bgm/play13002.html) |
 
 ### 本編
 
@@ -368,7 +374,7 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | 第55-68回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Chaser](https://dova-s.jp/_mobile/bgm/play12023.html) |
 | 第69-80回 | [Khaim](https://dova-s.jp/_contents/author/profile136.html) | [Stay On Your Mind](https://dova-s.jp/bgm/play6574.html) |
 | 第81-103回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Morning](https://dova-s.jp/bgm/play2452.html) |
-| 第104-115回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Cassette Tape Dream](https://dova-s.jp/bgm/play13982.html) |
+| 第104-118回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Cassette Tape Dream](https://dova-s.jp/bgm/play13982.html) |
 
 ### その他
 

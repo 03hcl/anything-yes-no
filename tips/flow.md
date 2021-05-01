@@ -191,7 +191,7 @@ description: 万物分類のためのフローチャート
 - 「**仕事or生活と関係ある？**」  
     Yesの場合: (※)
 - 「**娯楽と関係ある？**」  
-  Yesの場合: 娯楽の分類 (場所, 行為タイプ) など  
+  Yesの場合: 娯楽の分類 (場所, 行為/タイプ) など  
   (参考: [Category:娯楽 - Wikipedia](https://ja.wikipedia.org/wiki/Category:%E5%A8%AF%E6%A5%BD))
   - 場所
     -「その娯楽は**屋内？**」  

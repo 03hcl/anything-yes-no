@@ -212,6 +212,17 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | [(---)](../logs/2021/04/2021-04-15_1611_螺旋階段.html) | 2021年4月15日 | 螺旋階段 | 32問 | - | (・9<br/>03<br/>masher<br/>ぶろっさむ<br/>マイソン | 花井 |
 | [(---)](../logs/2021/04/2021-04-16_2242_メリケンサック.html) | 2021年4月16日 | メリケンサック | 14問 | - | (・9<br/>mariana<br/>masher<br/>かにかま<br/>花井<br/>マイソン | 03 |
 | [(---)](../logs/2021/04/2021-04-17_1303_バナナスタンド.html) | 2021年4月17日 | バナナスタンド | 43問 | - | (・9<br/>mariana<br/>かにかま<br/>花井<br/>マイソン | 03 |
+| [(---)](../logs/2021/04/2021-04-20_2110_花火大会.html) | 2021年4月20日 | 花火大会 | 13問 | - | 03<br/>花井<br/>マイソン | (・9 |
+| [(---)](../logs/2021/04/2021-04-20_2319_だるまさんがころんだ.html) | 2021年4月20日 | だるまさんがころんだ | 22問 | - | (・9<br/>03<br/>mariana<br/>花井<br/>ぶろっさむ | マイソン |
+| [(---)](../logs/2021/04/2021-04-22_2100_割り箸.html) | 2021年4月22日 | 割り箸 | 14問 | - | (・9<br/>mariana<br/>かにかま<br/>花井<br/>マイソン | 03 |
+| [第119回](../logs/2021/04/2021-04-23_2256_SF.html) | 2021年4月23日 | SF | 15問 | 19分 | 03 | (・9 |
+| [第120回](../logs/2021/04/2021-04-23_2344_ごみ収集日.html) | 2021年4月23日 | ごみ収集日 | 18問 | 31分 | (・9 | 03 |
+| [(---)](../logs/2021/04/2021-04-25_2110_完全数.html) | 2021年4月25日 | 完全数 | 28問 | - | (・9<br/>mariana<br/>とむ<br/>花井<br/>マイソン | 03 |
+| [(---)](../logs/2021/04/2021-04-28_2126_中央新幹線.html) | 2021年4月28日 | 中央新幹線 | 22問 | - | (・9<br/>03<br/>ぶろっさむ<br/>マイソン | 花井 |
+| [第121回](../logs/2021/05/2021-05-04_2050_ビール.html) | 2021年5月4日 | ビール | 16問 | 34分 | 03<br/>花井 | masher |
+| [第122回](../logs/2021/05/2021-05-04_2146_スペースインベーダー.html) | 2021年5月4日 | スペースインベーダー | 44問 | 49分 | (・9<br/>03<br/>masher<br/>moooooow | 花井 |
+| [第123回](../logs/2021/05/2021-05-04_2248_ふりがな.html) | 2021年5月4日 | ふりがな | 27問 | 45分 | 03<br/>masher<br/>moooooow<br/>花井 | (・9 |
+| [第124回](../logs/2021/05/2021-05-04_2346_お守り.html) | 2021年5月4日 | お守り | 30問 | 38分 | (・9<br/>masher<br/>moooooow<br/>花井 | 03 |
 
 ## 配信リンク
 
@@ -337,6 +348,12 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | [第116回](../logs/2021/03/2021-03-26_2142_大便.html) | 2021年3月26日 | 大便 | [第116-118回 / 13:35～](https://www.periscope.tv/03hcl/1OwGWVEmXjkKQ?t=13m35s) |
 | [第117回](../logs/2021/03/2021-03-26_2213_ラジオ体操.html) | 2021年3月26日 | ラジオ体操 | [第116-118回 / 34:32～](https://www.periscope.tv/03hcl/1OwGWVEmXjkKQ?t=34m32s) |
 | [第118回](../logs/2021/03/2021-03-26_2242_出産.html) | 2021年3月26日 | 出産 | [第116-118回 / 1:12:52～](https://www.periscope.tv/03hcl/1OwGWVEmXjkKQ?t=1h12m52s) |
+| [第119回](../logs/2021/04/2021-04-23_2256_SF.html) | 2021年4月23日 | SF | [第119-120回 / 25:50～](https://twitter.com/i/broadcasts/1MnxnlNRpmYGO?t=25m50s) |
+| [第120回](../logs/2021/04/2021-04-23_2344_ごみ収集日.html) | 2021年4月23日 | ごみ収集日 | [第119-120回 / 1:13:10～](https://twitter.com/i/broadcasts/1MnxnlNRpmYGO?t=1h13m10s) |
+| [第121回](../logs/2021/05/2021-05-04_2050_ビール.html) | 2021年5月4日 | ビール | [第121-124回 / 35:00～](https://twitter.com/i/broadcasts/1yNGaWOZRdNxj?t=35m) |
+| [第122回](../logs/2021/05/2021-05-04_2146_スペースインベーダー.html) | 2021年5月4日 | スペースインベーダー | [第121-124回 / 1:29:59～](https://twitter.com/i/broadcasts/1yNGaWOZRdNxj?t=1h29m59s) |
+| [第123回](../logs/2021/05/2021-05-04_2248_ふりがな.html) | 2021年5月4日 | ふりがな | [第121-124回 / 2:32:43～](https://twitter.com/i/broadcasts/1yNGaWOZRdNxj?t=2h32m43s) |
+| [第124回](../logs/2021/05/2021-05-04_2346_お守り.html) | 2021年5月4日 | お守り | [第121-124回 / 3:30:32～](https://twitter.com/i/broadcasts/1yNGaWOZRdNxj?t=3h30m32s) |
 
 <!--
 /2020-0*(\d+)-0*(\d+)/2020年$1月$2日/
@@ -350,7 +367,8 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | 回数 | 作曲者 | 曲名 |
 |:-:|:-:|:-:|
 | 第1-42回 | - | - |
-| 第43-118回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Martini](https://dova-s.jp/bgm/play4209.html) |
+| 第43-120回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Martini](https://dova-s.jp/bgm/play4209.html) |
+| 第121-124回 | 03 | #万物YesNoのテーマ |
 
 ### オープニング/エンディング
 
@@ -364,6 +382,8 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | 第55-71回 | [まつもとたくや (ioni)](https://dova-s.jp/_contents/author/profile115.html) | [raspis](https://dova-s.jp/bgm/play2851.html) |
 | 第72-103回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [サンタは中央線でやってくる](https://dova-s.jp/bgm/play13761.html) |
 | 第104-118回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [SUMMER TRIANGLE](https://dova-s.jp/bgm/play13002.html) |
+| 第119-120回 | [yuki](https://dova-s.jp/_contents/author/profile097.html) | [いちごホイップ](https://dova-s.jp/bgm/play2142.html) |
+| 第121-124回 | 03 | #万物YesNoのテーマ |
 
 ### 本編
 
@@ -382,7 +402,7 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | 第55-68回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Chaser](https://dova-s.jp/_mobile/bgm/play12023.html) |
 | 第69-80回 | [Khaim](https://dova-s.jp/_contents/author/profile136.html) | [Stay On Your Mind](https://dova-s.jp/bgm/play6574.html) |
 | 第81-103回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Morning](https://dova-s.jp/bgm/play2452.html) |
-| 第104-118回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Cassette Tape Dream](https://dova-s.jp/bgm/play13982.html) |
+| 第104-124回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Cassette Tape Dream](https://dova-s.jp/bgm/play13982.html) |
 
 ### その他
 

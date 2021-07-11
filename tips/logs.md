@@ -201,7 +201,7 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | [第113回](../logs/2021/03/2021-03-15_2115_正露丸.html) | 2021年3月15日 | 正露丸 | 29問 | 21分 | 03 | どらごん |
 | [第114回](../logs/2021/03/2021-03-15_2147_入れ歯.html) | 2021年3月15日 | 入れ歯 | 20問 | 34分 | どらごん | 03 |
 | [第115回](../logs/2021/03/2021-03-15_2229_通帳.html) | 2021年3月15日 | 通帳 | 27問 | 72分 | どらごん | 03 |
-| [第116回](../logs/2021/03/2021-03-26_2142_大便.html) | 2021年3月26日 | 大便 | 16問 | 13分 | m | 03 |
+| [第116回](../logs/2021/03/2021-03-26_2142_大便.html) | 2021年3月26日 | うんち | 16問 | 13分 | m | 03 |
 | [第117回](../logs/2021/03/2021-03-26_2213_ラジオ体操.html) | 2021年3月26日 | ラジオ体操 | 20問 | 18分 | 03 | m |
 | [第118回](../logs/2021/03/2021-03-26_2242_出産.html) | 2021年3月26日 | 出産 | 24問 | 22分 | m | 03 |
 | [(---)](../logs/2021/03/2021-03-29_1119_消失点.html) | 2021年3月29日 | 消失点 | 38問 | - | (・9<br/>masher<br/>くろわっさん<br/>花井<br/>ぶろっさむ | 03 |
@@ -227,6 +227,16 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | [第125回](../logs/2021/05/2021-05-12_2048_ししおどし.html) | 2021年5月12日 | ししおどし | 36問 | 87分 | m | 03 |
 | [第126回](../logs/2021/05/2021-05-12_2222_純喫茶.html) | 2021年5月12日 | 純喫茶 | 47問 | 102分 | 03 | m |
 | [(---)](../logs/2021/05/2021-05-13_2112_シャカリキ.html) | 2021年5月13日 | [シャカリキ!](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%AB%E3%83%AA%E3%82%AD!) | 27問 | - | (・9<br/>とむ<br/>花井<br/>マイソン | 03 | オプション: WikipediaおまかせEdition |
+| [第127回](../logs/2021/05/2021-05-22_2013_雪見だいふく八天堂監修カスタードくりーむ味.html) | 2021年5月22日 | 雪見だいふく八天堂監修カスタードくりーむ味 | 24問 | 28分 | 03 | なすび |
+| [第128回](../logs/2021/05/2021-05-22_2059_ゴールドシップ.html) | 2021年5月22日 | ゴールドシップ | 24問 | 28分 | なすび | 03 |
+| [第129回](../logs/2021/05/2021-05-29_2059_石けん.html) | 2021年5月29日 | 石けん | 24問 | 21分 | 03 | きた |
+| [第130回](../logs/2021/05/2021-05-29_2151_バトルえんぴつ.html) | 2021年5月29日 | バトルえんぴつ | 28問 | 56分 | きた | 03 |
+| [第131回](../logs/2021/06/2021-06-09_2019_一太郎スマイル.html) | 2021年6月9日 | 一太郎スマイル | 16問 | 19分 | 03 | いっぺー |
+| [第132回](../logs/2021/06/2021-06-09_2019_水道管.html) | 2021年6月9日 | 水道管 | 28問 | 31分 | いっぺー | 03 |
+| [第133回](../logs/2021/06/2021-06-19_2057_鳥居.html) | 2021年6月19日 | 鳥居 | 20問 | 32分 | 03<br/>knt | ksi |
+| [第134回](../logs/2021/06/2021-06-19_2134_ニードルスレイダー.html) | 2021年6月19日 | ニードルスレイダー | 27問 | 23分 | 03<br/>ksi | knt |
+| [第135回](../logs/2021/06/2021-06-19_2203_インク.html) | 2021年6月19日 | インク | 30問 | 82分 | 03<br/>knt | ksi |
+| [第136回](../logs/2021/07/2021-07-10_2305_デスクトップコンピュータ.html) | 2021年7月10日 | デスクトップコンピュータ | 14問 | 16分 | 03 | masher |
 
 ## 配信リンク
 
@@ -349,7 +359,7 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | [第113回](../logs/2021/03/2021-03-15_2115_正露丸.html) | 2021年3月15日 | 正露丸 | [第113-115回 / 18:03～](https://www.periscope.tv/03hcl/1yNGaWmLBWqxj?t=18m3s) |
 | [第114回](../logs/2021/03/2021-03-15_2147_入れ歯.html) | 2021年3月15日 | 入れ歯 | [第113-115回 / 50:05～](https://www.periscope.tv/03hcl/1yNGaWmLBWqxj?t=50m5s) |
 | [第115回](../logs/2021/03/2021-03-15_2229_通帳.html) | 2021年3月15日 | 通帳 | [第113-115回 / 1:32:29～](https://www.periscope.tv/03hcl/1yNGaWmLBWqxj?t=1h32m29s) |
-| [第116回](../logs/2021/03/2021-03-26_2142_大便.html) | 2021年3月26日 | 大便 | [第116-118回 / 13:35～](https://www.periscope.tv/03hcl/1OwGWVEmXjkKQ?t=13m35s) |
+| [第116回](../logs/2021/03/2021-03-26_2142_うんち.html) | 2021年3月26日 | うんち | [第116-118回 / 13:35～](https://www.periscope.tv/03hcl/1OwGWVEmXjkKQ?t=13m35s) |
 | [第117回](../logs/2021/03/2021-03-26_2213_ラジオ体操.html) | 2021年3月26日 | ラジオ体操 | [第116-118回 / 34:32～](https://www.periscope.tv/03hcl/1OwGWVEmXjkKQ?t=34m32s) |
 | [第118回](../logs/2021/03/2021-03-26_2242_出産.html) | 2021年3月26日 | 出産 | [第116-118回 / 1:12:52～](https://www.periscope.tv/03hcl/1OwGWVEmXjkKQ?t=1h12m52s) |
 | [第119回](../logs/2021/04/2021-04-23_2256_SF.html) | 2021年4月23日 | SF | [第119-120回 / 25:50～](https://twitter.com/i/broadcasts/1MnxnlNRpmYGO?t=25m50s) |
@@ -360,6 +370,16 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | [第124回](../logs/2021/05/2021-05-04_2346_お守り.html) | 2021年5月4日 | お守り | [第121-124回 / 3:30:32～](https://twitter.com/i/broadcasts/1yNGaWOZRdNxj?t=3h30m32s) |
 | [第125回](../logs/2021/05/2021-05-12_2048_ししおどし.html) | 2021年5月12日 | ししおどし | [第125-126回 / 48:20～](https://twitter.com/i/broadcasts/1YqxoyjplevGv?t=48m20s) |
 | [第126回](../logs/2021/05/2021-05-12_2222_純喫茶.html) | 2021年5月12日 | 純喫茶 | [第125-126回 / 2:21:55～](https://twitter.com/i/broadcasts/1YqxoyjplevGv?t=2h21m55s) |
+| [第127回](../logs/2021/05/2021-05-22_2013_雪見だいふく八天堂監修カスタードくりーむ味.html) | 2021年5月22日 | 雪見だいふく八天堂監修カスタードくりーむ味 | [第127-128回 / 10:19～](https://twitter.com/i/broadcasts/1DXxyRpXpNnKM?t=10m19s) |
+| [第128回](../logs/2021/05/2021-05-22_2059_ゴールドシップ.html) | 2021年5月22日 | ゴールドシップ | [第127-128回 / 56:25～](https://twitter.com/i/broadcasts/1DXxyRpXpNnKM?t=56m25s) |
+| [第129回](../logs/2021/05/2021-05-29_2059_石けん.html) | 2021年5月29日 | 石けん | [第129-130回 / 31:17～](https://twitter.com/i/broadcasts/1YpJkzQRBXwGj?t=31m17s) |
+| [第130回](../logs/2021/05/2021-05-29_2151_バトルえんぴつ.html) | 2021年5月29日 | バトルえんぴつ | [第129-130回 / 1:23:25～](https://twitter.com/i/broadcasts/1YpJkzQRBXwGj?t=1h23m25s) |
+| [第131回](../logs/2021/06/2021-06-09_2019_一太郎スマイル.html) | 2021年6月9日 | 一太郎スマイル | [第131-132回 / 18:05～](https://twitter.com/i/broadcasts/1YqxoyQAQVyGv?t=18m5s) |
+| [第132回](../logs/2021/06/2021-06-09_2045_水道管.html) | 2021年6月9日 | 水道管 | [第131-132回 / 44:38～](https://twitter.com/i/broadcasts/YqxoyQAQVyGv?t=44m38s) |
+| [第133回](../logs/2021/06/2021-06-19_2057_鳥居.html) | 2021年6月19日 | 鳥居 | [第133-135回 / 18:38～](https://twitter.com/i/broadcasts/1OwGWVLkyoDKQ?t=18m38s) |
+| [第134回](../logs/2021/06/2021-06-19_2134_ニードルスレイダー.html) | 2021年6月19日 | ニードルスレイダー | [第133-135回 / 55:08～](https://twitter.com/i/broadcasts/1OwGWVLkyoDKQ?t=55m8s) |
+| [第135回](../logs/2021/06/2021-06-19_2203_インク.html) | 2021年6月19日 | インク | [第133-135回 / 1:24:25～](https://twitter.com/i/broadcasts/1OwGWVLkyoDKQ?t=1h24m25s) |
+| [第136回](../logs/2021/07/2021-07-10_2305_デスクトップコンピュータ.html) | 2021年7月10日 | デスクトップコンピュータ | [第136回 / 1:53:35～](https://twitter.com/i/broadcasts/1ynJOBZbgRvGR?t=1h53m35s) |
 
 <!--
 /2020-0*(\d+)-0*(\d+)/2020年$1月$2日/
@@ -374,7 +394,7 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 |:-:|:-:|:-:|
 | 第1-42回 | - | - |
 | 第43-120回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Martini](https://dova-s.jp/bgm/play4209.html) |
-| 第121-126回 | 03 | #万物YesNoのテーマ |
+| 第121-136回 | 03 | #万物YesNoのテーマ |
 
 ### オープニング/エンディング
 
@@ -389,7 +409,7 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | 第72-103回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [サンタは中央線でやってくる](https://dova-s.jp/bgm/play13761.html) |
 | 第104-118回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [SUMMER TRIANGLE](https://dova-s.jp/bgm/play13002.html) |
 | 第119-120回 | [yuki](https://dova-s.jp/_contents/author/profile097.html) | [いちごホイップ](https://dova-s.jp/bgm/play2142.html) |
-| 第121-126回 | 03 | #万物YesNoのテーマ |
+| 第121-136回 | 03 | #万物YesNoのテーマ |
 
 ### 本編
 
@@ -408,7 +428,8 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | 第55-68回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Chaser](https://dova-s.jp/_mobile/bgm/play12023.html) |
 | 第69-80回 | [Khaim](https://dova-s.jp/_contents/author/profile136.html) | [Stay On Your Mind](https://dova-s.jp/bgm/play6574.html) |
 | 第81-103回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Morning](https://dova-s.jp/bgm/play2452.html) |
-| 第104-126回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Cassette Tape Dream](https://dova-s.jp/bgm/play13982.html) |
+| 第104-132回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Cassette Tape Dream](https://dova-s.jp/bgm/play13982.html) |
+| 第133-136回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [おどれグロッケンシュピール](https://dova-s.jp/bgm/play8680.html) |
 
 ### その他
 

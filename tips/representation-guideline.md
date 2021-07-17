@@ -419,16 +419,27 @@ description: 質問や回答をはじめとした文章の表現や配信に関�
 | 無理やり | 無理矢理 | むりやり | "矢理" の部分は当て字 |
 |  |  |  |
 
+#### 外国語をカタカナに変換するときの表記
+
+- 末尾が "er", "or", "ar" で終わる英語: 末尾の長音を表記 (例: コンピューター, ユーザー, サーバー, プリンター, コントローラー)
+
 #### 参考文献
 
-- (\*\*) [公⽤⽂における漢字使⽤等について](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/sanko/koyobun/pdf/kunrei.pdf) (平成22年11月30日に告示された内閣訓令)
-- [常用漢字チェッカー](https://joyokanji.info)
-- <http://www.yamanouchi-yri2.com/yrihp/tgb-06/t-2-4s03fd.htm>
-- <https://www.gaiki.net/lib/199x/99/99a25wrt2.html>
-- <https://shop.gyosei.jp/user_data/pdf/5107603-00-000errata.pdf>
-- <https://www.gentosha-book.com/column/column137/>
-- <https://www.ninjal.ac.jp/event/specialists/project-meeting/files/JCLWorkshop_no4_papers/JCLWorkshop_No4_35.pdf>
-- <https://writesaber.net/kannji_kana/>
+- 漢字, ひらがな, カタカナ表記
+  - (\*\*) [公⽤⽂における漢字使⽤等について](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/sanko/koyobun/pdf/kunrei.pdf) (平成22年11月30日に告示された内閣訓令)
+  - [常用漢字チェッカー](https://joyokanji.info)
+  - <http://www.yamanouchi-yri2.com/yrihp/tgb-06/t-2-4s03fd.htm>
+  - <https://www.gaiki.net/lib/199x/99/99a25wrt2.html>
+  - <https://shop.gyosei.jp/user_data/pdf/5107603-00-000errata.pdf>
+  - <https://www.gentosha-book.com/column/column137/>
+  - <https://www.ninjal.ac.jp/event/specialists/project-meeting/files/JCLWorkshop_no4_papers/JCLWorkshop_No4_35.pdf>
+  - <https://writesaber.net/kannji_kana/>
+- 外国語のカタカナ変換
+  - [JIS Z 8301: 2008 規格票の様式及び作成方法](https://kikakurui.com/z8/Z8301-2011-01.html)
+  - [内閣告示第二号, 外来語の表記, 留意事項その2(細則的な事項), Ⅲ 撥音,促音,長音その他に関するもの](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/gairai/honbun06.html)
+  - <https://qiita.com/tetsuo_jp/items/9bc1a05ab1504d815bb9>
+  - <https://www.whizz-tech.co.jp/610/>
+  - <https://www.town.yakumo.lg.jp/blog/information/index.php/2010/02/04/45/>
 
 ### 質問フォーマット
 

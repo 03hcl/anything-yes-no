@@ -244,9 +244,9 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 
 ## 配信リンク
 
-※その他の配信で媒体の表記がないものは Periscope
+※その他の配信で媒体の表記がないものは Twitter (旧 Periscope も含む)
 
-| 回数 | 日付 | 答え | Periscope | その他の配信 | 備考 |
+| 回数 | 日付 | 答え | Twitter<br/>(Periscope) | その他の配信 | 備考 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [第1回](../logs/2020/10/2020-10-18_1805_ギター.html) | 2020年10月18日 | ギター | [第1回 / 1:00～](https://www.periscope.tv/03hcl/1mnxelREOLZJX?t=1m) | [14:27～](https://www.pscp.tv/masaharu_mada/1YqJDpowwLeJV?t=14m27s) (@masaharu_mada) |
 | [第2回](../logs/2020/10/2020-10-18_1831_福井.html) | 2020年10月18日 | 福井 | [第2回 / 1:36～](https://www.periscope.tv/03hcl/1MYGNVgAnDnGw?t=1m36s) | [0:25～](https://www.pscp.tv/masaharu_mada/1MYxNVgAgevxw?t=25s) (@masaharu_mada) |
@@ -345,8 +345,8 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | [第95回](../logs/2020/12/2020-12-30_2318_餅.html) | 2020年12月30日 | 餅 | [第95-97回 / 20:00～](https://www.periscope.tv/03hcl/1YqxoyBoAdyGv?t=20m) |
 | [第96回](../logs/2020/12/2020-12-30_2356_Nintendo_Switch.html) | 2020年12月30日 | Nintendo Switch | [第95-97回 / 57:48～](https://www.periscope.tv/03hcl/1YqxoyBoAdyGv?t=57m48s) |
 | [第97回](../logs/2020/12/2020-12-31_0011_ピタゴラスイッチ.html) | 2020年12月30日 | ピタゴラスイッチ | [第95-97回 / 1:13:14～](https://www.periscope.tv/03hcl/1YqxoyBoAdyGv?t=1h13m14s) |
-| [第98回](../logs/2021/02/2021-02-01_2315_老後.html) | 2021年2月1日 | 老後 | - | [第98-99回 / 6:46～](https://youtu.be/y-AgYYTU-mE?t=406s) (03/YouTube)<br/>[第98-99回](https://www.instagram.com/tv/CLEVeZLl6SG/) (6:46～) (@03hcl/Instagram) | 縦画面 | <!-- 第98-99回 \[[1](https://www.instagram.com/tv/CKwfS_TDd59/)(6:46～)/[2](https://www.instagram.com/tv/CKwfrJiDo-z/)/[3](https://www.instagram.com/tv/CKwgGHOjtyQ/)/[4](https://www.instagram.com/tv/CKwgRcrD1Ql/)\] (@03hcl/Instagram) -->
-| [第99回](../logs/2021/02/2021-02-01_2341_待ち受け画面.html) | 2021年2月1日 | 待ち受け画面 | - | [第98-99回 / 32:49～](https://youtu.be/y-AgYYTU-mE?t=1969s) (03/YouTube)<br/>[第98-99回](https://www.instagram.com/tv/CLEVeZLl6SG/) (32:49～) (@03hcl/Instagram) | 縦画面 | <!-- 第98-99回 \[[1](https://www.instagram.com/tv/CKwfS_TDd59/)/[2](https://www.instagram.com/tv/CKwfrJiDo-z/)/[3](https://www.instagram.com/tv/CKwgGHOjtyQ/)(2:54～)/[4](https://www.instagram.com/tv/CKwgRcrD1Ql/)\] (@03hcl/Instagram) -->
+| [第98回](../logs/2021/02/2021-02-01_2315_老後.html) | 2021年2月1日 | 老後 | - | [第98-99回 / 6:46～](https://youtu.be/y-AgYYTU-mE?t=406s) (03/YouTube)<br/>[第98-99回](https://www.instagram.com/tv/CLEVeZLl6SG/) (6:46～) (@03hcl/Instagram) | 縦画面 |
+| [第99回](../logs/2021/02/2021-02-01_2341_待ち受け画面.html) | 2021年2月1日 | 待ち受け画面 | - | [第98-99回 / 32:49～](https://youtu.be/y-AgYYTU-mE?t=1969s) (03/YouTube)<br/>[第98-99回](https://www.instagram.com/tv/CLEVeZLl6SG/) (32:49～) (@03hcl/Instagram) | 縦画面 |
 | [第100回](../logs/2021/02/2021-02-03_2149_万物YesNo.html) | 2021年2月3日 | #万物YesNo | [第100-101回 / 39:45～](https://www.periscope.tv/03hcl/1ZkKzenEAjoxv?t=39m45s) |
 | [第101回](../logs/2021/02/2021-02-03_2235_ふなっしー.html) | 2021年2月3日 | ふなっしー | [第100-101回 / 1:26:30～](https://www.periscope.tv/03hcl/1ZkKzenEAjoxv?t=1h26m30s) |
 | [第102回](../logs/2021/02/2021-02-07_0003_仕事.html) | 2021年2月6日 | 仕事 | [第102-103回 / 54:08～](https://www.periscope.tv/03hcl/1dRJZNRMWzgJB?t=54m8s) |

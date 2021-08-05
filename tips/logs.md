@@ -241,6 +241,9 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | [(---)](../logs/2021/07/2021-07-24_2311_液体.html) | 2021年7月24日 | 液体 | 11問 | - | (・9 | 03 |
 | [(---)](../logs/2021/07/2021-07-25_2136_クイズ.html) | 2021年7月25日 | クイズ | 17問 | 11分 | 03 | (・9 |
 | [(---)](../logs/2021/07/2021-07-25_2150_現役.html) | 2021年7月25日 | 現役 | 31問 | 54分 | 03 | (・9 |
+| [第137回](../logs/2021/08/2021-08-05_2252_赤ちゃん.html) | 2021年8月5日 | 赤ちゃん | 23問 | 20分 | 03<br/>masher | m |
+| [第138回](../logs/2021/08/2021-08-05_2318_エアコン.html) | 2021年8月5日 | エアコン | 11問 | 10分 | 03<br/>m | masher |
+| [第139回](../logs/2021/08/2021-08-05_2356_三輪車.html) | 2021年8月5日 | 三輪車 | 22問 | 24分 | m<br/>masher | 03 |
 
 ## 配信リンク
 
@@ -384,6 +387,9 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | [第134回](../logs/2021/06/2021-06-19_2134_ニードルスレイダー.html) | 2021年6月19日 | ニードルスレイダー | [第133-135回 / 55:08～](https://twitter.com/i/broadcasts/1OwGWVLkyoDKQ?t=55m8s) |
 | [第135回](../logs/2021/06/2021-06-19_2203_インク.html) | 2021年6月19日 | インク | [第133-135回 / 1:24:25～](https://twitter.com/i/broadcasts/1OwGWVLkyoDKQ?t=1h24m25s) |
 | [第136回](../logs/2021/07/2021-07-10_2305_デスクトップコンピュータ.html) | 2021年7月10日 | デスクトップコンピュータ | [第136回 / 1:53:35～](https://twitter.com/i/broadcasts/1ynJOBZbgRvGR?t=1h53m35s) |
+| [第137回](../logs/2021/08/2021-08-05_2252_赤ちゃん.html) | 2021年8月5日 | 赤ちゃん | [第137回 / 49:01～](https://twitter.com/i/broadcasts/1yoJMAZwjmYJQ?t=49m01s) |
+| [第138回](../logs/2021/08/2021-08-05_2318_エアコン.html) | 2021年8月5日 | エアコン | [第138回 / 1:14:55～](https://twitter.com/i/broadcasts/1yoJMAZwjmYJQ?t=1h14m55s) |
+| [第139回](../logs/2021/08/2021-08-05_2356_三輪車.html) | 2021年8月5日 | 三輪車 | [第139回 / 1:52:55～](https://twitter.com/i/broadcasts/1yoJMAZwjmYJQ?t=1h52m55s) |
 
 <!--
 /2020-0*(\d+)-0*(\d+)/2020年$1月$2日/
@@ -398,7 +404,7 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 |:-:|:-:|:-:|
 | 第1-42回 | - | - |
 | 第43-120回 | [作田京輔](https://dova-s.jp/_contents/author/profile164.html) | [Martini](https://dova-s.jp/bgm/play4209.html) |
-| 第121-136回 | 03 | #万物YesNoのテーマ |
+| 第121-139回 | 03 | #万物YesNoのテーマ |
 
 ### オープニング/エンディング
 
@@ -413,7 +419,7 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | 第72-103回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [サンタは中央線でやってくる](https://dova-s.jp/bgm/play13761.html) |
 | 第104-118回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [SUMMER TRIANGLE](https://dova-s.jp/bgm/play13002.html) |
 | 第119-120回 | [yuki](https://dova-s.jp/_contents/author/profile097.html) | [いちごホイップ](https://dova-s.jp/bgm/play2142.html) |
-| 第121-136回 | 03 | #万物YesNoのテーマ |
+| 第121-139回 | 03 | #万物YesNoのテーマ |
 
 ### 本編
 
@@ -433,7 +439,7 @@ description: これまで記録した対戦, 配信情報, 配信BGMのアーカ
 | 第69-80回 | [Khaim](https://dova-s.jp/_contents/author/profile136.html) | [Stay On Your Mind](https://dova-s.jp/bgm/play6574.html) |
 | 第81-103回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Morning](https://dova-s.jp/bgm/play2452.html) |
 | 第104-132回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [Cassette Tape Dream](https://dova-s.jp/bgm/play13982.html) |
-| 第133-136回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [おどれグロッケンシュピール](https://dova-s.jp/bgm/play8680.html) |
+| 第133-139回 | [しゃろう](https://dova-s.jp/_contents/author/profile106.html) | [おどれグロッケンシュピール](https://dova-s.jp/bgm/play8680.html) |
 
 ### その他
 

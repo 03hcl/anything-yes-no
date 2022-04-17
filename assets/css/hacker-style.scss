@@ -18,6 +18,6 @@
 
 .custom_footer { margin-top: 100px; }
 
-body, header { font-family: "Noto Sans JP", sans-serif; }
+body, header h1, header h2, header h3, header h4, header h5, header h6 { font-family: "Noto Sans JP", sans-serif; }
 
 header h1:before { content: ""; }

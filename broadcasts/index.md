@@ -6,12 +6,6 @@ description: "準備中です..."
 
 ![full-logo](./full-logo-transparent.png)
 
-# 万物YesNo
-# 配信
-# やります
-
----
-
 ## ABOUT
 
 この番組では、YesかNoかで答えられる質問を繰り返すことで、万物から一つのお題を当てよう、というゲームを配信しています。

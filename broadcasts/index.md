@@ -1,5 +1,5 @@
 ---
-layout: hacker-default
+layout: hacker_default
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
